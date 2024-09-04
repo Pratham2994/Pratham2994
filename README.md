@@ -60,10 +60,7 @@
 
 <h1><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics</h1><br/>
 
-<p align="left">
-   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Pratham2994&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratham2994&theme=radical&hide_border=true">
-</p>
+<p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Pratham2994&show_icons=true&include_all_commits=true&theme=radical&hide_border=true"> <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratham2994&theme=radical&hide_border=true"> </p>
 <br>
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratham2994&theme=high-contrast" alt="Pratham's github activity graph">
