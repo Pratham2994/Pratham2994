@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=Pratham%20Panchal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20@%20Barclays&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+things+with+code+%F0%9F%92%BB;JavaScript+%7C+C%2B%2B+%7C+Java+%7C+PHP;Full-stack+%7C+APIs+%7C+Databases;Always+shipping%2C+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+Barclays;Built+Scrub+%E2%80%94+a+local+ffmpeg+GUI+that+hits+exact+file+sizes;Built+OmniCompiler+%E2%80%94+run%2C+debug+%26+translate+5+languages;Currently+pairing+static+analysis+with+LLMs%2C+not+just+prompting+one" alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,10 +12,10 @@
 
 ## About
 
-- 🏦 Software Engineer at **Barclays**
-- 💻 Full-stack development — React / Node.js / Express on top of SQL and NoSQL databases
-- 🌱 Comfortable moving between JavaScript, C++, Java and PHP depending on the problem
-- 📫 Reach me on LinkedIn or Discord below
+- 🏦 Software Engineer at **Barclays** — mainly Python and TypeScript/JavaScript (React, Node, Express), with C++ when performance is the actual constraint
+- 🤖 Working on agentic AI / LLM-integrated systems — [OmniCompiler](https://github.com/Pratham2994/OmniCompiler) anchors LLM translation prompts on an extracted control-flow graph rather than raw text, so the model gets structure, not just source
+- 🛠 Also know Java and PHP, just don't reach for them day to day
+- 🏏⚽🏎️🏸🎾🎮 Off the keyboard: sports, all of it — cricket, football, F1, badminton, tennis, pickleball, squash, and competitive Valorant
 
 <br>
 
@@ -23,19 +23,23 @@
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
@@ -43,6 +47,38 @@
 <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
 
 </div>
+
+<br>
+
+## Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Scrub](https://github.com/Pratham2994/Scrub)**
+
+Local-only ffmpeg GUI — no server, no account, nothing leaves your machine. Give it a Discord, WhatsApp or email size limit and it two-pass encodes to hit it exactly, instead of leaving you to guess a bitrate. The command it builds is shown on screen before it runs, and it's editable — what you see is what executes.
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/ffmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white">
+
+</td>
+<td width="50%" valign="top">
+
+**[OmniCompiler](https://github.com/Pratham2994/OmniCompiler)**
+
+Run, step-debug and translate code across Python, JavaScript, Java, C++ and Go from one interface. Debugging is driven by the real per-language debuggers (gdb, jdb, pdb, Delve) behind a single event protocol, not a simulated stepper. LLM translation prompts are anchored on an extracted control-flow graph before they reach Gemini, and every reported evaluation number is regenerated by a committed script.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white">
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -55,12 +91,11 @@
   <a href="https://discord.com/users/478527719416791054">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
+  <a href="mailto:prathampanchal02994@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pratham2994&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" />
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=100&section=footer" width="100%"/>
