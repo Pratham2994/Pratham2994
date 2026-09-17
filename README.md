@@ -82,28 +82,3 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/{Pratham2994}/count.svg">
 </p>
-
-<!--<h1><img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects</h1><br/>
-
-<ul>	
-  <li><i><a href="https://github.com/torrinworx/Cozy-Auto-Texture">Cozy Auto Texture</a></i>:<ul><li>A Blender add-on that integrates the Stable Diffusion AI image generation model directly within Blender to make AI generated tiled textures available to everyone. (Under construction)</li></ul></li>
-	<li><i><a href="https://github.com/torrinworx/Blend_My_NFTs">Blend_My_NFTs</a></i>:<ul><li>A Blender add-on that makes creating a 3D NFT collection easy! Generate thousands of 3D models, animations, or images with this simple add-on. (Released)</li></ul></li>
-  	<li><i><a href="https://www.thiscozystudio.com/">ThisCozyStudio.com (SAS)</a></i>:<ul><li>A website that enables easy cloud rendering and NFT minting and storage from the web or withing Blender using our Cozy API. (Yet to be released)</li></ul></li>
-   	<li><i>A possible standard system for implementing AI models into Blender and other 3D model software. Just a thought.</i></li>
-</ul>
--->
-
-<!--
-**Pratham2994/Pratham2994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
