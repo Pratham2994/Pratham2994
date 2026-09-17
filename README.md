@@ -46,27 +46,6 @@
 
 <br>
 
-## GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pratham2994&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=Pratham2994&theme=tokyonight&hide_border=true&background=1a1b27" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratham2994&theme=tokyo-night&hide_border=true&bg_color=1a1b27&area=true" width="97%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham2994&theme=tokyonight&hide_border=true&bg_color=1a1b27&layout=compact&include_all_commits=true&count_private=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pratham2994&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
-<br>
-
 ## Connect
 
 <div align="center">
