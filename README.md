@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=Pratham%20Panchal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20@%20Barclays&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+Barclays;Built+Scrub+%E2%80%94+a+local+ffmpeg+GUI+that+hits+exact+file+sizes;Built+OmniCompiler+%E2%80%94+run%2C+debug+%26+translate+5+languages;Currently+pairing+static+analysis+with+LLMs%2C+not+just+prompting+one" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=820&lines=Most+of+my+code+exists+because+a+tool+almost+did+what+I+needed;Built+Scrub%2C+a+local+ffmpeg+GUI+that+hits+exact+file+sizes;Built+OmniCompiler%2C+runs+and+debugs+real+code+across+5+languages;Currently+pairing+static+analysis+with+LLMs%2C+not+just+prompting+one" alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,10 +12,10 @@
 
 ## About
 
-- 🏦 Software Engineer at **Barclays** — mainly Python and TypeScript/JavaScript (React, Node, Express), with C++ when performance is the actual constraint
-- 🤖 Working on agentic AI / LLM-integrated systems — [OmniCompiler](https://github.com/Pratham2994/OmniCompiler) anchors LLM translation prompts on an extracted control-flow graph rather than raw text, so the model gets structure, not just source
+- 🏦 Software Engineer at **Barclays**, mainly Python and TypeScript/JavaScript (React, Node, Express), with C++ when performance is the actual constraint
+- 🤖 Poking around agentic AI and LLM tooling right now, still early, not overselling it as more than it is
 - 🛠 Also know Java and PHP, just don't reach for them day to day
-- 🏏⚽🏎️🏸🎾🎮 Off the keyboard: sports, all of it — cricket, football, F1, badminton, tennis, pickleball, squash, and competitive Valorant
+- 🏏⚽🏎️🏸🎾🎮 Off the keyboard: sports, all of it, cricket, football, F1, badminton, tennis, pickleball, squash, and competitive Valorant
 
 <br>
 
@@ -32,7 +32,6 @@
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -58,7 +57,7 @@
 
 **[Scrub](https://github.com/Pratham2994/Scrub)**
 
-Local-only ffmpeg GUI — no server, no account, nothing leaves your machine. Give it a Discord, WhatsApp or email size limit and it two-pass encodes to hit it exactly, instead of leaving you to guess a bitrate. The command it builds is shown on screen before it runs, and it's editable — what you see is what executes.
+Local-only ffmpeg GUI, no server, no account, nothing leaves your machine. Give it a Discord, WhatsApp or email size limit and it two-pass encodes to hit it exactly, instead of leaving you to guess a bitrate. The command it builds is shown on screen before it runs, and it's editable, so what you see is exactly what executes.
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
@@ -74,7 +73,6 @@ Run, step-debug and translate code across Python, JavaScript, Java, C++ and Go f
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white">
 
 </td>
 </tr>
