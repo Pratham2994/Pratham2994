@@ -13,9 +13,8 @@
 ## About
 
 - 🏦 Software Engineer at **Barclays**, mainly Python and TypeScript/JavaScript (React, Node, Express), with C++ when performance is the actual constraint
-- 🤖 Poking around agentic AI and LLM tooling right now, still early, not overselling it as more than it is
-- 🛠 Also know Java and PHP, just don't reach for them day to day
-- 🏏⚽🏎️🏸🎾🎮 Off the keyboard: sports, all of it, cricket, football, F1, badminton, tennis, pickleball, squash, and competitive Valorant
+- 🤖 Poking around agentic AI and LLM tooling right now.
+- 🏏⚽🏎️🏸🎾🎮 Off the keyboard: sports, all of it, cricket, football, F1, badminton, tennis, pickleball, squash, and gaming
 
 <br>
 
